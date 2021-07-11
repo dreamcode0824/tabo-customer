@@ -1,0 +1,5 @@
+export { Profile } from './profile'
+export { PersonalInformation } from './personalInformation'
+export { Languages } from './languages'
+export { Notifications } from './notifications'
+export { ShowProfile } from './showProfile'

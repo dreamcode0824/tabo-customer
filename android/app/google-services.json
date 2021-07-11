@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003662112590",
+    "firebase_url": "https://tabo-customer.firebaseio.com",
+    "project_id": "tabo-customer",
+    "storage_bucket": "tabo-customer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003662112590:android:fd8fcb344f53f794efd01f",
+        "android_client_info": {
+          "package_name": "com.tabo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003662112590-gr8nko0er57i0sj5a5sik32uttd6pg0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tabo",
+            "certificate_hash": "0fb96b24d0a421e44161499ec6cc61ccf1698925"
+          }
+        },
+        {
+          "client_id": "1003662112590-60rqakfp7lp562q8u8ppjlu1ac0ld704.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvr-WPHrFi2_cv2MJv-mOy-a1kWmOn34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003662112590-60rqakfp7lp562q8u8ppjlu1ac0ld704.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
